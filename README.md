@@ -24,7 +24,7 @@ Instead of offering a comprehensive guided tour through the Pandas or Scikit-Lea
 - write readable and testable code, so your colleagues know what you're doing
 - create your own tools
 
-## Prerequisites (Audience, Skills)
+## Prerequisites (Skills, Knowledge)
 
 To fully enjoy this tutorial, you are expected to:
 
