@@ -4,10 +4,12 @@ To maintain focus on understanding the Python constructs that are used to create
 
 ### General
 
+- The [Hitchhiker's Guide to Python](https://docs.python-guide.org/) is a good starting point for Python topics beyond those that were discussed in this tutorial, e.g. installation, virtual environments, (web) frameworks, etc.
 - The [Scipy Lecture Notes](https://scipy-lectures.org/) provide an introduction and in-depth tutorials for several important scientific computing packages.
 - There are many ways to format code, but [PEP-8](https://www.python.org/dev/peps/pep-0008/) is the "official" Python style guide.
 - Handling errors and exceptions is explained in [the Python docs](https://docs.python.org/3/tutorial/errors.html) and [this tutorial at Real Python](https://realpython.com/python-exceptions/).
 - Python has several facilities for [Documenting code](https://realpython.com/documenting-python-code/).
+- While `print()` calls are useful for short-term debugging purposes, eventually you'll need to use proper [logging](https://realpython.com/python-logging/).
 
 ### From Notebook to Package
 
