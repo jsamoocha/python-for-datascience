@@ -11,6 +11,8 @@ scipy = "*"
 scikit-learn = "*"
 pandas = "*"
 jupyterlab = "*"
+plotly = "*"
+ipywidgets = "*"
 
 [requires]
 python_version = "3.8"
